@@ -1,0 +1,18 @@
+{
+  "name": "module-alias_loader",
+  "version": "1.1.0",
+  "description": "A loader suport package module-alias",
+  "main": "index.js",
+  "type": "module",
+  "author": "kien2929@gmail.com",
+  "license": "MIT",
+  "keywords": [
+    "loader",
+    "module-alias",
+    "module alias"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kien2929/module-alias_loader"
+  }
+}
